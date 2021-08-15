@@ -1,5 +1,5 @@
 # Atividade-1
-Realizando Atividade um UC-versionamento senai
+Realizando Atividade 1 UC-versionamento senai
 
 // Comando para iniciar o git.
 
@@ -15,7 +15,7 @@ $ git config --global user.name Regis
 // Comando para inserir o e-mail e toda alteração que for realçizado saber o e-mail de quem fez.
 
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (master)
-$ git config --global user.email regisds14@gmail.com
+$ git config --global user.email /* e-mail desenvolvedor */
 
 // Comando para listar as alterações realizadas dentro da branch.
 
