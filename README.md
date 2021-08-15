@@ -2,7 +2,6 @@
 Realizando Atividade 1 UC-versionamento senai
 
 // Comando para iniciar o git.
-
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1
 
 $ git init
@@ -10,20 +9,18 @@ $ git init
 Initialized empty Git repository in C:/Users/Regis/Desktop/Atividade 1/.git/
 
 // Comando para inserir o nome e toda alteração que for realçizado saber de quem fez.
-
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (master)
 
 $ git config --global user.name Regis
 
 // Comando para inserir o e-mail e toda alteração que for realçizado saber o e-mail de quem fez.
-
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (master)
 
 $ git config --global user.email /* e-mail desenvolvedor */
 
 // Comando para listar as alterações realizadas dentro da branch.
-
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (master)
+
 $ git status
 On branch master
 
