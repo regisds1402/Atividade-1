@@ -87,12 +87,12 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 
 /* Realizada a contagem de arquivos e a criação da branch master */
 
-// Comando para altera o nome da branch principal.
+// Comando para criar nova branch.
 
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (master)
 $ git branch -m main
 
-// Comando para enviando para o repositorio remoto a nova branch principal.
+// Enviando nova branch para area remota.
 
 Regis@DESKTOP-QG3BJ3M MINGW64 ~/Desktop/Atividade 1 (main)
 $ git push -u origin main
